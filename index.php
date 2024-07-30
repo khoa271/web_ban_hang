@@ -14,7 +14,7 @@ if (isset($_GET['pg'])) {
             //     include_once 'view/categories.php';
             //         break;
         case 'cart':
-            include_once 'view/cart.php';
+            include_once 'html/view/cart.php';
             break;
             // case 'product':
             //     include_once 'controller/product.php';
